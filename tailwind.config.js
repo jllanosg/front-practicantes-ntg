@@ -5,7 +5,12 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors:{
+        'solrwb-logo-1': '#15141A',
+        'solrwb-logo-2': '#002e70'
+      }
+    },
   },
   plugins: [],
 }
