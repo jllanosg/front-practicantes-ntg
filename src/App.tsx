@@ -48,7 +48,7 @@ const App: React.FC = () => {
           <h2 className="font-mono">maqueta</h2>
           <hr className="m-4"/>
           <a href="https://practicantes.newtenberg.com/maqueta/maqueta.html">
-            <img className='border rounded-full' src="/public/cachorrochupeatao.jpeg" />
+            <img className='border rounded-full' src="/cachorrochupeatao.jpeg" />
           </a>
         </div>
       </div>
