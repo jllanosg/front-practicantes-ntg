@@ -69,7 +69,7 @@ const App: React.FC = () => {
 
       <footer>
         <hr className='my-2 mx-8'/>
-        <p className='p-4'>dereshos de autor <a className="text-blue-600 visited:text-purple-600 hover:text-blue-600" href='https://www.github.com/jllanosg' target="_blank">@jllanosg</a></p>
+        {/* <p className='p-4'>dereshos de autor <a className="text-blue-600 visited:text-purple-600 hover:text-blue-600" href='https://www.github.com/jllanosg' target="_blank">@jllanosg</a></p> */}
       </footer>
     </div>
   )
