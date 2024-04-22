@@ -18,7 +18,7 @@ const App: React.FC = () => {
         <div className="flex flex-col rounded-lg shadow-xl p-3 hover:shadow-inner">
           <h2 className="font-mono ">pywb</h2>
           <hr className="m-4"/>
-          <a className='h-full' href="https://practicantes.newtenberg.com/pywb/">
+          <a className='h-full' href="https://bnd-dev.newtenberg.com/pywb/">
             <div className='mt-8 '>
               <img src="https://raw.githubusercontent.com/webrecorder/pywb/main/pywb/static/pywb-logo.png" />
             </div>
@@ -29,7 +29,7 @@ const App: React.FC = () => {
           <h2 className="font-mono">solrwayback</h2>
           <hr className="m-4"/>
           </div>
-            <a className='h-full' href="https://practicantes.newtenberg.com/solrwayback/">
+            <a className='h-full' href="https://bnd-dev.newtenberg.com/solrwayback/">
               <div className='mt-8 '>
                 <h1 className='text-3xl font-semibold tracking-wider text-solrwb-logo-1/90 p-1'>
                     SOLR<span className='text-solrwb-logo-2'>WAYBACK</span>
@@ -40,14 +40,14 @@ const App: React.FC = () => {
         <div className="flex flex-col rounded-lg shadow-xl p-3 hover:shadow-inner">
           <h2 className="font-mono">solr</h2>
           <hr className="m-4"/>
-          <a href="https://practicantes.newtenberg.com/solr/">
+          <a href="https://bnd-dev.newtenberg.com/solr/">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Apache_Solr_logo.svg/250px-Apache_Solr_logo.svg.png"></img>
           </a>
         </div>
         <div className="flex flex-col rounded-lg shadow-xl p-3 hover:shadow-inner">
           <h2 className="font-mono">maqueta</h2>
           <hr className="m-4"/>
-          <a href="https://practicantes.newtenberg.com/maqueta/maqueta.html">
+          <a href="https://bnd-dev.newtenberg.com/maqueta/maqueta.html">
             <img className='border rounded-full' src="/cachorrochupeatao.jpeg" />
           </a>
         </div>
