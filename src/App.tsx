@@ -14,6 +14,13 @@ const App: React.FC = () => {
       <div className="px-4">
         <hr />
       </div>
+      <div className="p-4 m-4">
+          Bienvenid@! A continuación encontrará enlaces a los diferentes servicios trabajados.
+      </div>
+
+      <div className="px-4">
+        <hr />
+      </div>
       <div className="flex justify-evenly p-4 m-4">
         <div className="flex flex-col rounded-lg shadow-xl p-3 hover:shadow-inner">
           <h2 className="font-mono ">pywb</h2>
@@ -45,10 +52,10 @@ const App: React.FC = () => {
           </a>
         </div>
         <div className="flex flex-col rounded-lg shadow-xl p-3 hover:shadow-inner">
-          <h2 className="font-mono">maqueta</h2>
+          <h2 className="font-mono">Maqueta Visor BND</h2>
           <hr className="m-4"/>
           <a href="https://bnd-dev.newtenberg.com/maqueta/maqueta.html">
-            <img className='border rounded-full' src="/cachorrochupeatao.jpeg" />
+            <img className='border rounded-full' src="https://www.bibliotecanacionaldigital.gob.cl/bnd/612/channels-512_imagen_portada.png" />
           </a>
         </div>
       </div>
@@ -63,7 +70,7 @@ const App: React.FC = () => {
           </span>
         </div>
         <div className="flex justify-center ">
-          <img className='rounded-xl' src="https://media.tenor.com/v-TX2-c3DScAAAAC/ardilla-bailando.gif" />
+          <img className='rounded-xl' src="https://media.tenor.com/v-TX2-c3DScAAAAC/ardilla-bailando.gif" width="100" height="100"/>
         </div>
       </div>
 
