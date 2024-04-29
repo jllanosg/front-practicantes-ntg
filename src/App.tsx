@@ -6,7 +6,7 @@ const App: React.FC = () => {
     <div className="bg-white rounded-t-xl">
       <div className="p-4 m-4">
         <h1 className="text-3xl font-semibold">
-          practicantes <span className="text-stone-500/90">
+          Pruebas <span className="text-stone-500/90">
             ne<span className='text-orange-500'>w</span>t<span className='text-orange-500'>e</span>n<span className='text-orange-500'>b</span>erg
           </span>
         </h1>
